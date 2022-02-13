@@ -1,4 +1,4 @@
-![GitHub](https://img.shields.io/github/license/adudecoder/coffee-square)
+![GitHub](https://img.shields.io/github/license/adudecoder/coffee-square?style=for-the-badge)
 
 # Coffee Square
 
