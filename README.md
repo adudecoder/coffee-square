@@ -2,7 +2,7 @@
 
 # Coffee Square
 
-☕ ## Site de cafés e coffee shops
+## ☕ Site de cafés e coffee shops
 
 Site para vendas de café e indicações para outras cafeterias. Construido em:
 * HTML
